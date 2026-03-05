@@ -37,7 +37,7 @@ most likely to be knowledgeable enough to help you, but
 they have no obligation to help you (i.e. you ask them for help,
 you don't demand).  +git log -p {litdd} _$area_you_are_modifying_+ would
 help you find out who they are.
-
++
 It is also a good idea to check whether your topic has been discussed
 previously on the mailing list, or whether similar work is already in
 progress.  Prior discussions may contain useful context, design
